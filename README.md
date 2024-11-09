@@ -1,4 +1,4 @@
-# Value-and-Momentum-Portfolio-Construction
+# Value and Momentum Portfolio Construction
 
 ## Overview
 
